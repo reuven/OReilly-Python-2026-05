@@ -6,4 +6,5 @@ dependencies = [
     "jupyter",
     "gitautopush",
     "ipython",
+    "ipyparallel>=9.2.0",
 ]
